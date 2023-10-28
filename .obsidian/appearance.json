@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "思源黑体 CN",
+  "translucency": false,
+  "nativeMenus": false,
+  "interfaceFontFamily": "思源黑体 CN",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

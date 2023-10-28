@@ -1,0 +1,15 @@
+
+/* ==================== 个人定制样式 ==================== */
+
+.inline-title {
+  display: none;
+}
+.cm-s-obsidian span.cm-inline-code {
+  margin: 0 2px;
+  border-radius: 2px !important;
+  color: #d63200;
+  background-color: #fff5f5;
+  padding: 0.065em 0.4em !important;
+}
+
+/* ==================== 个人定制样式 ==================== */
