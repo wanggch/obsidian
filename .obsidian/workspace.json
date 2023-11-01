@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/Awesome.md",
+                "file": "04-个人/微信公众号.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/Awesome.md",
+                "file": "04-个人/微信公众号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/Awesome.md",
+                "file": "04-个人/微信公众号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/Awesome.md"
+                "file": "04-个人/微信公众号.md"
               }
             }
           },
@@ -177,8 +177,11 @@
   },
   "active": "ac29da6d0ec604af",
   "lastOpenFiles": [
-    "02-开发笔记/0202-SpringBoot/跨域.md",
+    "02-开发笔记/0203-Vue/Awesome.md",
+    "04-个人/微信公众号.md",
     "02-开发笔记/0202-SpringBoot/Awesome.md",
+    "02-开发笔记/0203-Vue",
+    "02-开发笔记/0202-SpringBoot/跨域.md",
     "04-个人/01-财富自由/韭菜.md",
     "02-开发笔记/0202-SpringBoot/CommandLineRunner用法.md",
     "04-个人/01-财富自由",

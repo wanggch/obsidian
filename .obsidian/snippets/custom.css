@@ -1,0 +1,15 @@
+:root {
+    --a-color: #036aca;
+    --text-color: #333333;
+}
+
+.inline-title {
+    display: none;
+}
+
+.cm-s-obsidian span.cm-link {
+    color: var(--a-color);
+}
+.cm-s-obsidian span.cm-url, .cm-s-obsidian span.cm-url:hover {
+    color: var(--text-color);
+}
