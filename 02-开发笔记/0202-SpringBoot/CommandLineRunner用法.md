@@ -27,7 +27,6 @@ public class MyCommandLineRunner implements CommandLineRunner {
     }
 }
 ```
-
 在这个示例中，`MyCommandLineRunner` 类实现了 `CommandLineRunner` 接口，并在 `run()` 方法中执行了初始化逻辑。当应用程序启动后，Spring Boot 将自动调用这个方法。
 
 你可以创建多个实现 `CommandLineRunner` 接口的类，它们的 `run()` 方法将按照它们在应用上下文中的注册顺序依次执行。这允许你分隔和组织初始化逻辑，以确保在应用程序启动时按照特定的顺序执行不同的任务。
