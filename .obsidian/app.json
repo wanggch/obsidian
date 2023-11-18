@@ -3,6 +3,6 @@
   "promptDelete": false,
   "newLinkFormat": "relative",
   "strictLineBreaks": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true
 }

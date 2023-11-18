@@ -3,13 +3,20 @@
     --text-color: #333333;
 }
 
+/* ========== */
+
 .inline-title {
     display: none;
 }
 
 .HyperMD-header-2 {
-    color: #135ce0;
+    /*color: #135ce0;*/
     font-size: 1.8rem;
+}
+.HyperMD-header-3 {
+    /*color: #135ce0;*/
+    font-size: 1.2rem;
+    /*font-weight: 500;*/
 }
 
 /* 超链接字体颜色 */
@@ -29,6 +36,17 @@
     margin-bottom: 5px !important;
 }
 
+/*.HyperMD-codeblock.HyperMD-codeblock-begin.HyperMD-codeblock-begin.HyperMD-codeblock-begin,
+.HyperMD-codeblock.HyperMD-codeblock-end.HyperMD-codeblock-end.HyperMD-codeblock-end {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    line-height: 2px !important;
+}*/
+
+/* 复制代码 */
+.markdown-source-view.mod-cm6 .code-block-flair {
+    display: none;
+}
 
 /* 引用 */
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
@@ -48,4 +66,38 @@
     height: 100%;
     background-color: #b2aec5;
     border-radius: 2px;
+}
+
+/* 无序列表 */
+.list-bullet:after {
+    left: -2px;
+    color: #5c6165;
+    background-color: #5c6165;
+}
+
+/* 行内代码 */
+.cm-s-obsidian span.cm-inline-code {
+    background-color: #fff5f5;
+    color: #d63200;
+    border-radius: 2px !important;
+}
+.cm-s-obsidian span.cm-formatting-code {
+    padding: 0 !important;
+}
+
+.cm-formatting-quote-1 {
+    margin-left: 5px;
+}
+
+.markdown-source-view.mod-cm6 .cm-indent::before {
+    display: none;
+}
+
+.cm-line.HyperMD-list-line {
+    tab-size: 1.2em;
+}
+
+input[type=checkbox]:checked:after {
+    top: -0.5px;
+    left: -1.1px;
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae11a9a47b660ae",
+        "id": "79e350ec52f78193",
         "type": "tabs",
         "children": [
           {
-            "id": "ac29da6d0ec604af",
+            "id": "a14157e9b1a880bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/签名.md",
+                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/签名.md",
+                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/签名.md",
+                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-开发笔记/0202-SpringBoot/签名.md"
+                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md"
               }
             }
           },
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,24 +171,37 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ac29da6d0ec604af",
+  "active": "a14157e9b1a880bf",
   "lastOpenFiles": [
-    "README.md",
-    "01-工具/Everything.md",
-    "02-开发笔记/0202-SpringBoot/签名.md",
+    "02-开发笔记/0204-RuoYi/00-Common/Redis.md",
+    "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
+    "02-开发笔记/0204-RuoYi/00-Common",
+    "02-开发笔记/0204-RuoYi/01-Gateway/README.md.md",
+    "02-开发笔记/0204-RuoYi/02-Auth",
     "02-开发笔记/0201-架构/包名.md",
-    "02-开发笔记/0201-架构/001-操作日志.md",
     "02-开发笔记/0202-SpringBoot/CommandLineRunner用法.md",
-    "02-开发笔记/0202-SpringBoot/跨域.md",
     "02-开发笔记/0202-SpringBoot/Awesome.md",
-    "02-开发笔记/JS笔记.md",
     "02-开发笔记/0203-Vue/000-Awesome.md",
+    "02-开发笔记/JS笔记.md",
+    "04-个人/配色.md",
+    "04-个人/图片.md",
+    "04-个人/微信公众号.md",
+    "README.md",
+    "Excalidraw/Drawing 2023-11-14 11.25.21.excalidraw.md",
+    "Excalidraw",
+    "02-开发笔记/0204-RuoYi/01-Gateway",
+    "02-开发笔记/0204-RuoYi",
+    "02-开发笔记/0201-架构/多租户签名认证.md",
+    "02-开发笔记/0202-SpringBoot/跨域.md",
+    "02-开发笔记/0201-架构/001-操作日志.md",
+    "02-开发笔记/0202-SpringBoot/签名.md",
+    "01-工具/Everything.md",
     "01-工具/Obsidian.md",
     "01-工具/Idea.md",
-    "04-个人/微信公众号.md",
     "commit.txt",
     "新建文本文档.txt",
     "02-开发笔记/0203-Vue",
@@ -197,16 +209,12 @@
     "04-个人/01-财富自由",
     "04-个人",
     "03-普瑞森/儿童综合2期.md",
-    "03-普瑞森",
     "未命名.canvas",
     "计划.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "未命名 3.canvas",
-    "02-开发笔记/0202-SpringBoot",
     "02-开发笔记/0201-架构/image/Pasted image 20230808083600.png",
-    "02-开发笔记/0201-架构/image",
-    "02-开发笔记/0201-架构",
     "Pasted image 20221212164606.png",
     "Pasted image 20221212165037.png",
     "Spring Boot Security.md",
