@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
+                "file": "02-开发笔记/0201-架构/包名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
+                "file": "02-开发笔记/0201-架构/包名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
+                "file": "02-开发笔记/0201-架构/包名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-开发笔记/0204-RuoYi/02-Auth/README.md.md"
+                "file": "02-开发笔记/0201-架构/包名.md"
               }
             }
           },
@@ -177,17 +177,17 @@
   },
   "active": "a14157e9b1a880bf",
   "lastOpenFiles": [
-    "02-开发笔记/0204-RuoYi/00-Common/Redis.md",
     "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
+    "02-开发笔记/0201-架构/包名.md",
+    "02-开发笔记/0203-Vue/000-Awesome.md",
+    "04-个人/配色.md",
+    "02-开发笔记/0204-RuoYi/00-Common/Redis.md",
     "02-开发笔记/0204-RuoYi/00-Common",
     "02-开发笔记/0204-RuoYi/01-Gateway/README.md.md",
     "02-开发笔记/0204-RuoYi/02-Auth",
-    "02-开发笔记/0201-架构/包名.md",
     "02-开发笔记/0202-SpringBoot/CommandLineRunner用法.md",
     "02-开发笔记/0202-SpringBoot/Awesome.md",
-    "02-开发笔记/0203-Vue/000-Awesome.md",
     "02-开发笔记/JS笔记.md",
-    "04-个人/配色.md",
     "04-个人/图片.md",
     "04-个人/微信公众号.md",
     "README.md",

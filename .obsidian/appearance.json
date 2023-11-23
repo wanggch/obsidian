@@ -2,11 +2,11 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Minimal",
-  "monospaceFontFamily": "",
-  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "霞鹜文楷",
   "translucency": false,
   "nativeMenus": false,
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "霞鹜文楷",
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "custom"

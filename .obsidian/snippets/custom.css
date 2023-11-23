@@ -5,6 +5,10 @@
 
 /* ========== */
 
+.HyperMD-table-row {
+	font-family: 'LXGW WenKai', sans-serif !important;
+}
+
 .inline-title {
     display: none;
 }
