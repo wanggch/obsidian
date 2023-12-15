@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-开发笔记/0201-架构/包名.md",
+                "file": "02-开发笔记/0203-Vue/000-Awesome.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-开发笔记/0201-架构/包名.md",
+                "file": "02-开发笔记/0203-Vue/000-Awesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-开发笔记/0201-架构/包名.md",
+                "file": "02-开发笔记/0203-Vue/000-Awesome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-开发笔记/0201-架构/包名.md"
+                "file": "02-开发笔记/0203-Vue/000-Awesome.md"
               }
             }
           },
@@ -160,37 +160,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a14157e9b1a880bf",
   "lastOpenFiles": [
-    "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
-    "02-开发笔记/0201-架构/包名.md",
+    "02-开发笔记/0202-SpringBoot/Awesome.md",
     "02-开发笔记/0203-Vue/000-Awesome.md",
+    "04-个人/2023年终总结.md",
+    "README.md",
+    "未命名.canvas",
+    "02-开发笔记/0201-架构/包名.md",
+    "02-开发笔记/0204-RuoYi/02-Auth/README.md.md",
     "04-个人/配色.md",
     "02-开发笔记/0204-RuoYi/00-Common/Redis.md",
     "02-开发笔记/0204-RuoYi/00-Common",
     "02-开发笔记/0204-RuoYi/01-Gateway/README.md.md",
     "02-开发笔记/0204-RuoYi/02-Auth",
     "02-开发笔记/0202-SpringBoot/CommandLineRunner用法.md",
-    "02-开发笔记/0202-SpringBoot/Awesome.md",
     "02-开发笔记/JS笔记.md",
     "04-个人/图片.md",
     "04-个人/微信公众号.md",
-    "README.md",
     "Excalidraw/Drawing 2023-11-14 11.25.21.excalidraw.md",
     "Excalidraw",
     "02-开发笔记/0204-RuoYi/01-Gateway",
@@ -209,7 +211,6 @@
     "04-个人/01-财富自由",
     "04-个人",
     "03-普瑞森/儿童综合2期.md",
-    "未命名.canvas",
     "计划.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
