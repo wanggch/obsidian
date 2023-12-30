@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-开发笔记/其他.md",
+                "file": "02-开发笔记/0201-ddadmin/包名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-开发笔记/其他.md",
+                "file": "02-开发笔记/0201-ddadmin/包名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-开发笔记/其他.md",
+                "file": "02-开发笔记/0201-ddadmin/包名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-开发笔记/其他.md"
+                "file": "02-开发笔记/0201-ddadmin/包名.md"
               }
             }
           },
@@ -179,19 +179,20 @@
   },
   "active": "a14157e9b1a880bf",
   "lastOpenFiles": [
-    "02-开发笔记/JS笔记.md",
+    "02-开发笔记/0201-ddadmin/001-网关.md",
+    "02-开发笔记/0201-ddadmin/001-操作日志.md",
+    "02-开发笔记/0202-SpringBoot/签名.md",
+    "02-开发笔记/0202-SpringBoot/比较@Service、@Component.md",
+    "02-开发笔记/0202-SpringBoot/跨域.md",
+    "02-开发笔记/0203-Vue/问题处理.md",
     "02-开发笔记/其他.md",
+    "02-开发笔记/JS笔记.md",
     "04-个人/bigcherry.vip.md",
     "02-开发笔记/0205-electron",
     "02-开发笔记/0202-SpringBoot/Awesome.md",
-    "02-开发笔记/0202-SpringBoot/跨域.md",
-    "02-开发笔记/0202-SpringBoot/签名.md",
     "02-开发笔记/0203-Vue/000-Awesome.md",
     "04-个人/2023年终总结.md",
-    "02-开发笔记/0202-SpringBoot/比较@Service、@Component.md",
     "02-开发笔记/0202-SpringBoot/CommandLineRunner用法.md",
-    "02-开发笔记/0201-ddadmin/001-网关.md",
-    "02-开发笔记/0201-ddadmin/001-操作日志.md",
     "README.md",
     "04-个人/微信公众号.md",
     "04-个人/图片.md",
@@ -214,7 +215,6 @@
     "commit.txt",
     "新建文本文档.txt",
     "02-开发笔记/0203-Vue",
-    "04-个人/01-财富自由/韭菜.md",
     "04-个人/01-财富自由",
     "未命名 1.canvas",
     "未命名 2.canvas",
