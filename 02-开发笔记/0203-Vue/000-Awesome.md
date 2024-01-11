@@ -5,6 +5,7 @@
 - [搭建 vite + vue3 + ts + pinia 项目框架](https://juejin.cn/post/7193610176425885733)
 - [后台管理系统搭建](https://juejin.cn/column/7281210797960019979)
 - [一份应该全面的 Vue3 项目搭建指南，开整！（Vue3 + TypeScript）](https://juejin.cn/post/7282290326067724343)
+- [10 个 效果不错的值得收藏的 css 代码片段](https://juejin.cn/post/7274789845754544163)
 
 
 | 系统 | 介绍 |
